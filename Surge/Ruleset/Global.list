@@ -9,28 +9,28 @@ DOMAIN,s3-ap-southeast-2.amazonaws.com
 DOMAIN,a248.e.akamai.net
 DOMAIN,a771.dscq.akamai.net
 # > Apple
-DOMAIN,testflight.apple.com
+# DOMAIN,testflight.apple.com
 # > Crypto
-DOMAIN-SUFFIX,aex.com
-DOMAIN-SUFFIX,bibox.com
-DOMAIN-SUFFIX,binance.cc
-DOMAIN-SUFFIX,binance.com
-DOMAIN-SUFFIX,bitcointalk.org
-DOMAIN-SUFFIX,bitfinex.com
-DOMAIN-SUFFIX,bitmex.com
-DOMAIN-SUFFIX,gate.io
-DOMAIN-SUFFIX,huobi.com
-DOMAIN-SUFFIX,okex.com
-DOMAIN-SUFFIX,uniswap.org
-DOMAIN-SUFFIX,zb.com
+# DOMAIN-SUFFIX,aex.com
+# DOMAIN-SUFFIX,bibox.com
+# DOMAIN-SUFFIX,binance.cc
+# DOMAIN-SUFFIX,binance.com
+# DOMAIN-SUFFIX,bitcointalk.org
+# DOMAIN-SUFFIX,bitfinex.com
+# DOMAIN-SUFFIX,bitmex.com
+# DOMAIN-SUFFIX,gate.io
+# DOMAIN-SUFFIX,huobi.com
+# DOMAIN-SUFFIX,okex.com
+# DOMAIN-SUFFIX,uniswap.org
+# DOMAIN-SUFFIX,zb.com
 # > Discord
 DOMAIN-SUFFIX,discord.com
 DOMAIN-SUFFIX,discordapp.com
 DOMAIN-SUFFIX,discordapp.net
 # > Dropbox
-DOMAIN-SUFFIX,dropbox.com
-DOMAIN-SUFFIX,dropboxapi.com
-DOMAIN-SUFFIX,dropboxusercontent.com
+# DOMAIN-SUFFIX,dropbox.com
+# DOMAIN-SUFFIX,dropboxapi.com
+# DOMAIN-SUFFIX,dropboxusercontent.com
 # > Facebook
 DOMAIN-SUFFIX,cdninstagram.com
 DOMAIN-SUFFIX,facebook.com
@@ -74,7 +74,7 @@ IP-CIDR,147.92.128.0/17,no-resolve
 IP-CIDR,203.104.144.0/21,no-resolve
 # > Microsoft
 DOMAIN-SUFFIX,aka.ms
-DOMAIN-SUFFIX,onedrive.live.com
+# DOMAIN-SUFFIX,onedrive.live.com
 DOMAIN-SUFFIX,streaming.mediaservices.windows.net
 DOMAIN,assets1.xboxlive.com
 DOMAIN,assets2.xboxlive.com
@@ -512,7 +512,7 @@ DOMAIN-SUFFIX,recaptcha.net
 DOMAIN-SUFFIX,shattered.io
 DOMAIN-SUFFIX,synergyse.com
 DOMAIN-SUFFIX,telephony.goog
-DOMAIN-SUFFIX,tensorflow.org
+# DOMAIN-SUFFIX,tensorflow.org
 DOMAIN-SUFFIX,tfhub.dev
 DOMAIN-SUFFIX,tiltbrush.com
 DOMAIN-SUFFIX,waveprotocol.org
@@ -546,8 +546,8 @@ DOMAIN-SUFFIX,appsto.re
 # > iBooks Store download
 DOMAIN,books.itunes.apple.com
 # > App Store Preview
-DOMAIN,apps.apple.com
-DOMAIN,itunes.apple.com
+# DOMAIN,apps.apple.com
+# DOMAIN,itunes.apple.com
 # > Spotlight
 DOMAIN,api-glb-sea.smoot.apple.com
 # > Look Up
@@ -557,14 +557,14 @@ DOMAIN,lookup-api.apple.com
 DOMAIN,beta.music.apple.com
 # ------
 # > Others
-DOMAIN-SUFFIX,bing.com
-DOMAIN-SUFFIX,cccat.io
-DOMAIN-SUFFIX,dubox.com
-DOMAIN-SUFFIX,duboxcdn.com
-DOMAIN-SUFFIX,ifixit.com
-DOMAIN-SUFFIX,mangakakalot.com
-DOMAIN-SUFFIX,shopeemobile.com
-DOMAIN-SUFFIX,sushi.com
+# DOMAIN-SUFFIX,bing.com
+# DOMAIN-SUFFIX,cccat.io
+# DOMAIN-SUFFIX,dubox.com
+# DOMAIN-SUFFIX,duboxcdn.com
+# DOMAIN-SUFFIX,ifixit.com
+# DOMAIN-SUFFIX,mangakakalot.com
+# DOMAIN-SUFFIX,shopeemobile.com
+# DOMAIN-SUFFIX,sushi.com
 URL-REGEX,http:\/\/img\.sina\.com\/usweibo\/
 
 # (Network Jitter)
@@ -575,14 +575,14 @@ DOMAIN,www.icloud.com
 DOMAIN,ocsp.apple.com
 DOMAIN,xp.apple.com
 # > DigiCert
-DOMAIN,cacerts.digicert.com
-DOMAIN,crl3.digicert.com
-DOMAIN,crl4.digicert.com
-DOMAIN,ocsp.digicert.com
+# DOMAIN,cacerts.digicert.com
+# DOMAIN,crl3.digicert.com
+# DOMAIN,crl4.digicert.com
+# DOMAIN,ocsp.digicert.com
 # > Others
 DOMAIN-SUFFIX,cloudcone.com.cn
 DOMAIN-SUFFIX,inkbunny.net
 DOMAIN-SUFFIX,metapix.net
 DOMAIN-SUFFIX,s3.amazonaws.com
 DOMAIN-SUFFIX,zaobao.com.sg
-DOMAIN,international-gfe.download.nvidia.com
+# DOMAIN,international-gfe.download.nvidia.com
